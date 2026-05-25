@@ -1,17 +1,24 @@
 # Hi, I'm Vikash 👋
 
 🎓 BCA Student @ ISM Patna College  
-📊 Aspiring BI Developer | Power BI & Excel 
+📊 Aspiring Data Analyst | Excel • SQL • Power BI • Python  
 📍 Patna, Bihar, India  
 
 ---
 
 ## 🛠️ Skills & Tools
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+---
+
+## 🚀 Projects
+
+- 🏆 **[KPT Bias Calibration Engine](https://github.com/pravik-dev/zomathon-kpt-bias-calibration)** — Zomathon Data Hackathon by Coding Ninjas × Zomato | 68% reduction in rider idle time
+- 📊 **[Retail Sales Dashboard](https://github.com/pravik-dev/retail-sales-excel-dashboard)** — Interactive Excel dashboard analyzing 1000+ transactions with Pivot Tables & Slicers
 
 ---
 
